@@ -23,7 +23,7 @@ This repo provides:
 
 ---
 
-## 📂 Available Files
+## Available Files
 
 - [**v0**](./v0%20Prompts%20and%20Tools/)
 - [**Manus**](./Manus%20Agent%20Tools%20&%20Prompt/)
