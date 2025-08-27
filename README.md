@@ -1,49 +1,25 @@
-# **System Prompts and Models of AI Tools**  
+## AI System Prompts and Models
 
----
-<a href="https://discord.gg/NwzrWErdMU" target="_blank">
-  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
-</a>
-
-> **Join the Conversation:** New system instructions are released on Discord **before** they appear in this repository. Get early access and discuss them in real time.
-
-
-<a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-📜 Over **12,000+ lines** of insights into their structure and functionality.  
-
-[![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+A curated collection of **system prompts, model configurations, and references** used across popular AI tools.  
+This repository is forked for research, customization and hands-on experimentation in AI, LLMs and prompt engineering.
 
 ---
 
-## ❤️ Support the Project
+## Overview
 
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
-
-You can show your support via:
-
-- **PayPal:** `lucknitelol@proton.me`
-- **Cryptocurrency:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-- **Patreon:** https://patreon.com/lucknite
-
-🙏 Thank you for your support!
-
+This repo provides:
+- System prompts from different AI products (ChatGPT, Claude, Bard, Perplexity, Cursor, etc.)  
+- Configurations and examples for Large Language Models (LLMs)  
+- Reference material for researchers, developers, and students working on AI  
 
 ---
 
-## 📑 Table of Contents
+## Features
 
-  - [❤️ Support the Project](#️-support-the-project)
-  - [📑 Table of Contents](#-table-of-contents)
-  - [📂 Available Files](#-available-files)
-  - [🛠 Roadmap \& Feedback](#-roadmap--feedback)
-  - [🔗 Connect With Me](#-connect-with-me)
-  - [🛡️ Security Notice for AI Startups](#️-security-notice-for-ai-startups)
-  - [📊 Star History](#-star-history)
+-  Ready-to-use system prompts  
+-  Organized by AI tool for quick lookup  
+-  Useful for **prompt engineering**, **NLP projects**, and **chatbot development**  
+-  Continuously updated and open for contributions  
 
 ---
 
@@ -82,40 +58,21 @@ You can show your support via:
 
 ---
 
-## 🛠 Roadmap & Feedback
+## Applications
 
-> Open an issue.
-
-> **Latest Update:** 24/08/2025
-
----
-
-## 🔗 Connect With Me
-
-- **X:** [NotLucknite](https://x.com/NotLucknite)
-- **Discord**: `x1xh`
+-  AI research and development
+-  Fine-tuning Large Language Models
+-  Building and testing chatbots
+-  Exploring Industry 5.0 human-AI collaboration use cases
 
 ---
 
-## 🛡️ Security Notice for AI Startups
+## Contributing
 
-> ⚠️ **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
-
-> 🔐 **Important:** Interested in securing your AI systems?  
-> Check out **[ZeroLeaks](https://zeroleaks.io/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
-
-*The company is mine, this is NOT a 3rd party AD.*
+Pull requests are welcome. Drop a star if you find this useful!
 
 ---
 
-## 📊 Star History
+## License
 
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-  </picture>
-</a>
-
-⭐ **Drop a star if you find this useful!**
+This project is available under the MIT License. See ```LICENSE``` for details.
